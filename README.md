@@ -1,1 +1,2 @@
 # pyxel-test
+hitest
